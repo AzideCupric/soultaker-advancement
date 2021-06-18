@@ -4,3 +4,5 @@ function azide:check/soul_boiling-check
 function azide:check/pentakill-check
 #最终平局
 function azide:check/adraw-check
+#连胜两局
+function azide:check/double_wins-check

@@ -1,0 +1,19 @@
+{
+    "display": {
+      "icon": {
+        "item": "minecraft:pufferfish"
+      },
+      "title": "山崩之势",
+      "description": "在一局比赛中连赢两轮",
+      "background": "minecraft:textures/gui/advancements/backgrounds/end.png",
+      "frame": "challenge",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:impossible"
+      }
+    }
+  }

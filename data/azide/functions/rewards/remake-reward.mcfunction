@@ -1,0 +1,1 @@
+give @s pufferfish 1
