@@ -1,0 +1,19 @@
+{
+    "display": {
+      "icon": {
+        "item": "minecraft:wither_skeleton_skull"
+      },
+      "title": "这片大地并不挑食",
+      "description": "在一局游戏中累计击杀五人",
+      "background": "minecraft:textures/gui/advancements/backgrounds/adventure.png",
+      "frame": "goal",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:impossible"
+      }
+    }
+}

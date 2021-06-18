@@ -1,0 +1,19 @@
+{
+    "display": {
+      "icon": {
+        "item": "minecraft:blaze_powder"
+      },
+      "title": "无解之局",
+      "description": "双方在三轮比赛均为平局",
+      "background": "minecraft:textures/gui/advancements/backgrounds/end.png",
+      "frame": "challenge",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:impossible"
+      }
+    }
+  }
