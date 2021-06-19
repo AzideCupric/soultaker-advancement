@@ -1,0 +1,1 @@
+advancement grant @s only azide:lost_but_win

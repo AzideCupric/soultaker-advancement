@@ -6,3 +6,5 @@ function azide:check/pentakill-check
 function azide:check/adraw-check
 #连胜两局
 function azide:check/double_wins-check
+#让一追二
+function azide:check/lost_but_win-check

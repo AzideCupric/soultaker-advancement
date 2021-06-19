@@ -1,0 +1,19 @@
+{
+    "display": {
+      "icon": {
+        "item": "minecraft:dried_kelp"
+      },
+      "title": "狂澜力挽",
+      "description": "开局失利后依旧获得胜利",
+      "background": "minecraft:textures/gui/advancements/backgrounds/end.png",
+      "frame": "challenge",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:impossible"
+      }
+    }
+  }
