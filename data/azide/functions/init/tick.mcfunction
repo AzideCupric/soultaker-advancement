@@ -1,3 +1,5 @@
+#新人
+function azide:check/newbie-check
 #灵魂沸腾
 function azide:check/soul_boiling-check
 #累计击杀五人

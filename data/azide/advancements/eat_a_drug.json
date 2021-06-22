@@ -10,6 +10,7 @@
       "announce_to_chat": true,
       "hidden": true
     },
+    "parent": "azide:root",
     "criteria": {
       "eat_pufferfish": {
         "trigger": "minecraft:consume_item",
