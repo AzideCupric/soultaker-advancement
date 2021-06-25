@@ -1,0 +1,28 @@
+{
+    "display": {
+      "icon": {
+        "item": "minecraft:milk_bucket"
+      },
+      "title": "再来一杯吗？",
+      "description": "被弩手的不同药水箭连续命中",
+      "frame": "task",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "parent": "azide:root",
+    "criteria": {
+      "shot_all": {
+        "trigger": "minecraft:effects_changed",
+        "conditions": {
+          "effects": {
+            "minecraft:blindness": {},
+            "minecraft:weakness": {}
+          }
+        }
+      }
+    },
+    "rewards": {
+      "function": "azide:adv/shot_all"
+    }
+  }

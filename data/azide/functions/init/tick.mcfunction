@@ -10,3 +10,5 @@ function azide:check/adraw-check
 function azide:check/double_wins-check
 #让一追二
 function azide:check/lost_but_win-check
+#再来一杯
+function azide:check/shot_all-check
