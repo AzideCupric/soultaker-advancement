@@ -17,7 +17,8 @@
         "conditions": {
           "effects": {
             "minecraft:blindness": {},
-            "minecraft:weakness": {}
+            "minecraft:weakness": {},
+            "minecraft:instant_damage":{}
           }
         }
       }
